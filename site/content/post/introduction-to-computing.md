@@ -5,16 +5,14 @@ description: Introduction to Computing
 ---
 Introduction to Computing
 
-Unit 1 : [History of Computers - Early Hardware](https://drive.google.com/file/d/1OsA1DNKwAWgsdhl_Fbjr9FBENTLlNf2j/view)
+Unit 1 : [History of Computer - Early Hardware](pdfs/Unit-1-Class-01.pdf)
 
-Unit II : [History of Computers](https://drive.google.com/file/d/1u7WMk8Yk5sY9ZdqzdaqhKG6etMq00eOm/view)
+Unit II : [History of Computers](pdfs/Unit-1-Class-02.pdf)
 
-Unit III : [Generation of Computers](https://drive.google.com/file/d/1J9LQcrLJkhvm9Gpn7yxjw0IwFNR2XWNR/view)
+Unit III : [Generation of Computers](pdfs/Unit-1-Class-03.pdf)
 
-Unit IV : [Numbers and Computing](https://drive.google.com/file/d/1hL6SeNT4rD0G6v38Ff23h9zVY-RoEwKh/view)
+Unit IV : [Numbers and Computing](pdfs/Unit-1-Class-04.pdf)
 
-Unit V : [Personal Computers](https://drive.google.com/file/d/1VMPjB8Pnweqz2wbBsg4Bt2lEjVrOIDdj/view)
+Unit V : [Personal Computers](pdfs/Unit-1-Class-05.pdf)
 
-Unit VI : [Parallel Computing](https://drive.google.com/file/d/1JvM0tDwPhU8BliaWObS9B4Wq_lx_7dZY/view)
-
-Unit I (local copy) : [History of Computer - Early Hardware](pdfs/Unit-1-Class-01.pdf)
+Unit VI : [Parallel Computing](pdfs/Unit-1-Class-06.pdf)
