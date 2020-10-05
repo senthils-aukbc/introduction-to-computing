@@ -5,7 +5,7 @@ description: Introduction to Computing
 ---
 Introduction to Computing
 
-Unit 1 : [History of Computers - Early Hardware] (https://drive.google.com/file/d/1OsA1DNKwAWgsdhl_Fbjr9FBENTLlNf2j/view)
+Unit 1 : [History of Computers - Early Hardware](https://drive.google.com/file/d/1OsA1DNKwAWgsdhl_Fbjr9FBENTLlNf2j/view)
 
 Unit II : [History of Computers](https://drive.google.com/file/d/1u7WMk8Yk5sY9ZdqzdaqhKG6etMq00eOm/view)
 
@@ -17,4 +17,4 @@ Unit V : [Personal Computers](https://drive.google.com/file/d/1VMPjB8Pnweqz2wbBs
 
 Unit VI : [Parallel Computing](https://drive.google.com/file/d/1JvM0tDwPhU8BliaWObS9B4Wq_lx_7dZY/view)
 
-Unit I (local copy) : [History of Computer - Early Hardware](../../static/pdfs/Unit-1-Class-01.pdf)
+Unit I (local copy) : [History of Computer - Early Hardware](pdfs/Unit-1-Class-01.pdf)
