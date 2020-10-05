@@ -16,3 +16,5 @@ Unit IV : [Numbers and Computing](https://drive.google.com/file/d/1hL6SeNT4rD0G6
 Unit V : [Personal Computers](https://drive.google.com/file/d/1VMPjB8Pnweqz2wbBsg4Bt2lEjVrOIDdj/view)
 
 Unit VI : [Parallel Computing](https://drive.google.com/file/d/1JvM0tDwPhU8BliaWObS9B4Wq_lx_7dZY/view)
+
+Unit I (local copy) : [History of Computer - Early Hardware](../../static/pdfs/Unit-1-Class-01.pdf)
