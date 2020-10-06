@@ -17,32 +17,32 @@ description: Understand the evolution, architecture and devices of digital
 
 **Computer Hardware**
 
-* Part 1 : Von Neumann Architecture
-* Part 2 : Components of a Computer
-* Part 3 : Components of a Computer (contd.)
-* Part 4 : Components of a Computer (contd.)
-* Part 5 : Components of a Computer (contd.)
+* Part 1 : [Von Neumann Architecture](pdfs/Unit-2-Class-01.pdf)
+* Part 2 : [Components of a Computer](pdfs/Unit-2-Class-02.pdf)
+* Part 3 : [Components of a Computer (contd.)](pdfs/Unit-2-Class-03.pdf)
+* Part 4 : [Components of a Computer (contd.)](pdfs/Unit-2-Class-04.pdf)
+* Part 5 : [Components of a Computer (contd.)](pdfs/Unit-2-Class-05a.pdf)
 
 **Computer software**
 
-* Part 1 : Computer Software
-* Part 2 : Operating System
-* Part 3 : Operating System (contd.)
-* Part 4 : Utility Software
-* Part 5 : Application Software
+* Part 1 : [Computer Software](pdfs/Unit-3-Class-01.pdf)
+* Part 2 : [Operating System](pdfs/Unit-3-Class-02.pdf)
+* Part 3 : [Operating System (contd.)](pdfs/Unit-3-Class-03.pdf)
+* Part 4 : [Utility Software](pdfs/Unit-3-Class-04.pdf)
+* Part 5 : [Application Software](pdfs/Unit-3-Class-05a.pdf)
 
 **Programming Languages**
 
-* Part 1 : Programming Languages
-* Part 2 : Design Methodologies
-* Part 3 : High-Level languages
-* Part 4 : Scripting Languages
-* Part 5 : Programming Paradigms
+* Part 1 : [Programming Languages](pdfs/Unit-4-Class-01.pdf)
+* Part 2 : [Design Methodologies](pdfs/Unit-4-Class-02.pdf)
+* Part 3 : [High-Level languages](pdfs/Unit-4-Class-03.pdf)
+* Part 4 : [Scripting Languages](pdfs/Unit-4-Class-04.pdf)
+* Part 5 : [Programming Paradigms](pdfs/Unit-4-Class-05.pdf)
 
 **Networks and Internet**
 
-* Part 1 : Computer Networks
-* Part 2 : Computer Networks (contd.)
-* Part 3 : Computer Networks (contd.) 
-* Part 4 : Computer Networks (contd.)
-* Part 5 : Computer Networks (contd.)
+* Part 1 : [Computer Networks](pdfs/Unit-5-Class-01.pdf)
+* Part 2 : [Computer Networks (contd.)](pdfs/Unit-5-Class-02.pdf)
+* Part 3 : [Computer Networks (contd.)](pdfs/Unit-5-Class-03.pdf) 
+* Part 4 : [Computer Networks (contd.)](pdfs/Unit-5-Class-04.pdf)
+* Part 5 : [Computer Networks (contd.)](pdfs/Unit-5-Class-05.pdf)
