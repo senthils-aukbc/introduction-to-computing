@@ -1,2 +1,5 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Introduction to Computing"
+
+[markup.goldmark.renderer]
+unsafe= true
