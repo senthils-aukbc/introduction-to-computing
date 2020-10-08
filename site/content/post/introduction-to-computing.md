@@ -46,3 +46,7 @@ description: Understand the evolution, architecture and devices of digital
 * Part 3 : [Computer Networks (contd.)](pdfs/Unit-5-Class-03.pdf) 
 * Part 4 : [Computer Networks (contd.)](pdfs/Unit-5-Class-04.pdf)
 * Part 5 : [Computer Networks (contd.)](pdfs/Unit-5-Class-05.pdf)
+
+**Sample Text**
+
+* [Hindi Sample](pdfs/36_wide_layout_new.pdf)
