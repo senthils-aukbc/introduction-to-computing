@@ -51,5 +51,5 @@ description: Understand the evolution, architecture and devices of digital
 
 * [Hindi Sample](pdfs/36_wide_layout_new.pdf)
 * Hindi Sample Embedded
-<embed src="pdfs/36_wide_layout_new.pdf" width="100%" />
+<iframe src="/pdfs/36_wide_layout_new.pdf" width="100%" />
 * The End
